@@ -8,7 +8,7 @@
     "proxy",
     "server"
   ],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/chbrown/socks-server",
   "repository": "git://github.com/chbrown/socks-server.git",
   "bugs": "https://github.com/chbrown/socks-server/issues",
