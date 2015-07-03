@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var net = require('net');
 
 function formatIPv4(buffer) {
