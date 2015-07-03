@@ -1,0 +1,20 @@
+{
+  "name": "socks-server",
+  "description": "SOCKS4/SOCKS5 proxy server",
+  "keywords": [
+    "socks4",
+    "socks5",
+    "socks",
+    "proxy",
+    "server"
+  ],
+  "version": "0.0.0",
+  "homepage": "https://github.com/chbrown/socks-server",
+  "repository": "git://github.com/chbrown/socks-server.git",
+  "bugs": "https://github.com/chbrown/socks-server/issues",
+  "author": "Christopher Brown <io@henrian.com> (http://henrian.com)",
+  "license": "MIT",
+  "bin": {
+    "socks-server": "node server.js"
+  }
+}
